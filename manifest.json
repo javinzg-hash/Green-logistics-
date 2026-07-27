@@ -1,0 +1,9 @@
+{
+  "name": "Green Logistics",
+  "short_name": "GreenLog",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#12261C",
+  "theme_color": "#12261C",
+  "icons": []
+}
